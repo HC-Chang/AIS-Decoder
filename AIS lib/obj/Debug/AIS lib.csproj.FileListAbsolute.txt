@@ -1,0 +1,6 @@
+D:\code\AIS Decoder-0422\AIS lib\obj\Debug\AIS_Decoder.text_form.resources
+D:\code\AIS Decoder-0422\AIS lib\obj\Debug\AIS lib.csproj.GenerateResource.Cache
+D:\code\AIS Decoder-0422\AIS lib\bin\Debug\AIS lib.dll
+D:\code\AIS Decoder-0422\AIS lib\bin\Debug\AIS lib.pdb
+D:\code\AIS Decoder-0422\AIS lib\obj\Debug\AIS lib.dll
+D:\code\AIS Decoder-0422\AIS lib\obj\Debug\AIS lib.pdb
