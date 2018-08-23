@@ -55,6 +55,23 @@ namespace AIS_Decoder
             p_f.Show();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text == "")
+            {
+                MessageBox.Show("TextBox is NULL !!!");
+                return ;
+            }
+
+            decode.start_decode(textBox1.Text);
+
+            decode.decoding();
+
+            decode.outputMSG();
+
+            
+        }
+
         /******************************************************/
         /*
         // 更新進度條

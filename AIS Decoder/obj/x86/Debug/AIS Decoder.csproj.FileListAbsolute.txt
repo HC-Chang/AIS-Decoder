@@ -56,20 +56,10 @@ D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.exe
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.pdb
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\bin\Debug\AIS Decoder.exe
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\bin\Debug\AIS Decoder.pdb
-D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csprojResolveAssemblyReference.cache
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.Form1.resources
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.pic_form.resources
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.Properties.Resources.resources
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.text_form.resources
 D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csproj.GenerateResource.Cache
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.exe
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.pdb
-D:\code\AIS Decoder-0422\AIS Decoder\bin\Debug\AIS Decoder.exe
-D:\code\AIS Decoder-0422\AIS Decoder\bin\Debug\AIS Decoder.pdb
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csprojResolveAssemblyReference.cache
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.Form1.resources
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.pic_form.resources
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.Properties.Resources.resources
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS_Decoder.text_form.resources
-D:\code\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csproj.GenerateResource.Cache
-D:\code\AIS Decoder-0422\AIS Decoder\bin\Debug\AIS lib.dll
+D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csprojAssemblyReference.cache
+D:\Code\程式\AIS Decoder-0422\AIS Decoder\obj\x86\Debug\AIS Decoder.csproj.CoreCompileInputs.cache
