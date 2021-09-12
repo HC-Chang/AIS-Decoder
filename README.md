@@ -8,7 +8,23 @@ In order to know what the information by recorded, I try to make a tool, AIS-Dec
 
 - Those you decode datas will save as "*.cvs". It is more convient to analysis with Excel.
 
+- Test data can find in File "test data".
+
+- Decode "Message Type": 1.2.3.5.18.19.24
+
+- The field for each "Message Type" is declared at table 1.
+
+- table 1
+
+![Fields]
+
+![main]
+
+- AIS-Decoder
+
 ## Reference:
 - [AIVDM/AIVDO protocol decoding]
 
+[main]: pics/main.png
+[Fields]: pics/Fields.png
 [AIVDM/AIVDO protocol decoding]: https://gpsd.gitlab.io/gpsd/AIVDM.html
