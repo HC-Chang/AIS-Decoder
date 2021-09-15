@@ -22,6 +22,13 @@ In order to know what the information by recorded, I try to make a tool, AIS-Dec
 
 - AIS-Decoder
 
+---
+- test data/test.txt: 
+	- Test data for AIS-Decoder.
+	
+- test data/test - decode.csv: 
+	- Generate from test data by AIS-Decoder.
+
 ## Reference:
 - [AIVDM/AIVDO protocol decoding]
 
